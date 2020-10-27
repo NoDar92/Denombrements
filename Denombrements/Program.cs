@@ -64,6 +64,7 @@ namespace Denombrements
                         // calcul de r3
                         //Console.WriteLine("résultat = " + (r1 / r2));
                         Console.WriteLine("C(" + t + "/" + n + ") = " + (r1 / r2));
+                        Console.WriteLine();
                     }
                 }
             }
